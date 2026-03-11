@@ -10,4 +10,4 @@
 - Link: [trigo.html](https://github.com/anna-dev3148/web-aula4-html/blob/main/planta_trigo.html)
   
 ## supermercado.html
-- Link: [supermercado.html]()
+- Link: [supermercado.html](https://github.com/anna-dev3148/web-aula4-html/tree/main/Supermecado.html)
